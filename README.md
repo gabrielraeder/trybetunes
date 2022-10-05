@@ -23,7 +23,7 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
 
   Neste projeto você irá criar o TrybeTunes, uma aplicação capaz de reproduzir músicas das mais variadas bandas e artistas, criar uma lista de músicas favoritas e editar o perfil da pessoa usuária logada. Essa aplicação será capaz de:
 
-  - Fazer login;
+  - Fazer login;.
   - Pesquisar por uma banda ou artista;
   - Listar os álbuns disponíveis dessa banda ou artista;
   - Visualizar as músicas de um álbum selecionado;
